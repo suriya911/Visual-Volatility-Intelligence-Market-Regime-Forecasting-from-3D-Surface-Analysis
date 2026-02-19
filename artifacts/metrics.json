@@ -1,0 +1,9 @@
+{
+  "cnn_accuracy": 0.21153846153846156,
+  "cnn_accuracy_std": 0.038461538461538464,
+  "baseline_accuracy": 0.17307692307692307,
+  "strategy_sharpe": 0.0,
+  "baseline_sharpe": 0.04186652017725936,
+  "sharpe_improvement_pct": -100.0,
+  "false_signal_rate": 1.0
+}
